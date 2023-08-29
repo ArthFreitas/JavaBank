@@ -1,18 +1,15 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# **Bem Vindo ao Desafio Conta Bancária Dio!!**
 
-## Folder Structure
+Objetivo final do código elaborado é de simular uma Conta Bancária por meio do Terminal/Console, utilizando a classe Scanner
 
-The workspace contains two folders by default, where:
+O código está em "src" no arquivo "ContaTerminal.java"
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## O que é a Classe Scanner? ##
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Em Java, a classe Scanner tem como objetivo separar a entrada dos textos em blocos, gerando tokens, que são caracteres. Sua finalidade é de receber dados digitados pelo usuário.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+## Requisitos ##
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+O código em questão, utilizou o comando import java. util. Scanner, pois, importou a classe Scanner do pacote Java.8
