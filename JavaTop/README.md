@@ -3,6 +3,8 @@
 
 Objetivo final do código elaborado é de simular uma Conta Bancária por meio do Terminal/Console, utilizando a classe Scanner
 
+O código está em "src" no arquivo "ContaTerminal.java"
+
 ## O que é a Classe Scanner? ##
 
 Em Java, a classe Scanner tem como objetivo separar a entrada dos textos em blocos, gerando tokens, que são caracteres. Sua finalidade é de receber dados digitados pelo usuário.
