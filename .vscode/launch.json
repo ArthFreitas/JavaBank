@@ -6,19 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TESTE",
+            "request": "launch",
+            "mainClass": "TESTE",
+            "projectName": "JavaDio_441a5153"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
-
         },
         {
             "type": "java",
             "name": "ContaTerminal",
             "request": "launch",
             "mainClass": "ContaTerminal",
-            "projectName": "JavaDio_441a5153"
-            ,"console": "integratedTerminal"
-
+            "projectName": "JavaDio_441a5153",
+            "console": "integratedTerminal"
         }
     ]
 }
