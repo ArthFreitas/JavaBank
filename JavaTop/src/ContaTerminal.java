@@ -1,6 +1,9 @@
 import java.util.Locale;
 import java.util.Scanner;
 
+//Para digitar no Terminal, insira "console": "integratedTerminal" nas configurações.
+
+
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         //criando o objeto scanner
